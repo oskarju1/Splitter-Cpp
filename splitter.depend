@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547153586 source:c:\users\wesol\desktop\splitter\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+
